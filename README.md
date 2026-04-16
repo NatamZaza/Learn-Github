@@ -2,7 +2,7 @@
 
 My name is Natam and I'm Learning about GitHub <br>
 
-Install git
+Install <br>
 git init <br>
 git add README.md <br>
 git commit -m "first commit" <br>
