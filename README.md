@@ -1,10 +1,10 @@
 # Learn-Github
 
-My name is Natam and I'm Learning about GitHub
+My name is Natam and I'm Learning about GitHub <br>
 
-git init
-git add README.md
-git commit -m "first commit"
-git bracnh -M main
-git remote add origin ตามด้วย url repository
-git push -u origin main
+git init <br>
+git add README.md <br>
+git commit -m "first commit" <br>
+git bracnh -M main <br>
+git remote add origin ตามด้วย url repository <br>
+git push -u origin main <br>
